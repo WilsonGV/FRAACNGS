@@ -1,1 +1,1 @@
-# 19CNGS.xlsx contains the main database used to perfome the experiments proposed in the paper: "A Fast Reliability Analysis Approach for Colombian Natural Gas Subnetworks", W. González-Vanegas et al.
+# 19CNGS.xlsx contains the main database used to perfom the experiments proposed in the paper: "A Fast Reliability Analysis Approach for Colombian Natural Gas Subnetworks." - W. González-Vanegas et al.
